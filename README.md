@@ -14,5 +14,5 @@ I have a passion to learn and do something new out of it. I do not give up that 
 
 What I am focusing on: 🤖 
 
-Currently improving my back-end developing skills and data structures in python. 
+Currently improving my back-end developing skills and data structures in python . 
 
