@@ -2,7 +2,7 @@ Hey, I am saghana ✌️
 
   
 
-I’m an ETL Developer with 1 year of hands-on experience working with IBM DataStage, SQL, and Unix, building and optimizing data pipelines for business insights. I am also interested in coding and that led me to explore backend and web development — especially using Java and Spring Boot.
+Working as an ETL Developer with 1 year of hands-on experience working with IBM DataStage, SQL, and Unix, building and optimizing data pipelines for business insights. I am also interested in coding and that led me to explore backend and web development — especially using Java and Spring Boot.
 
 I’m passionate about coding, solving problems, and building things that work efficiently and make an impact. My technical journey has strengthened my understanding of data, logic, and system design — which now fuels my transition into Java-based backend and full-stack development.
 
